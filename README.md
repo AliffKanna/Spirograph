@@ -1,3 +1,10 @@
+update1.1: change name from Spirograph -> Earth
+
+Update pending:
+-implement physics for spherical objects.
+-experimentation with gravitational physics.
+-The Maxwell color-triangle
+
 # Spirograph
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
